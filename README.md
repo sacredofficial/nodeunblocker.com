@@ -4,7 +4,7 @@ Evade internet censorship!
 
 The original nodeunblocker.com is gone, but it's now easier than ever to deploy your own copy.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nfriedly/nodeunblocker.com)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sacredofficial/nodeunblocker.com)
 [![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/nfriedly/nodeunblocker.com)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 [![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nfriedly/nodeunblocker.com)
@@ -40,7 +40,7 @@ This project should be runnable without modification on a free [Heroku](http://w
 
 # About the project
 
-The the core of the nodeunblocker.com has been extracted into a [standalone library](https://github.com/nfriedly/node-unblocker) to make it more flexible, but everything you need to run the website is right here.
+The the core of the nodeunblocker.com has been extracted into a [standalone library](https://github.com/sacredofficial/nodeunblocker.com) to make it more flexible, but everything you need to run the website is right here.
 
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
